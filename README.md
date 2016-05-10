@@ -1,6 +1,6 @@
 # Ruby
 
->_[Training](https://github.com/simplonco/training) / META (General ressources)_
+>_[Training](https://github.com/simplonco/training) / Ruby_
 
 ### Discourses
 
