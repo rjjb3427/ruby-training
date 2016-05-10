@@ -2,6 +2,8 @@
 
 >_[Training](https://github.com/simplonco/training) / Ruby_
 
+![Ruby](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ruby-logo-notext.png)
+
 ### Discourses
 
 * [Cours de réseau avec Ruby](http://discourse.simplon.co/t/cours-de-reseau-avec-ruby/77)
