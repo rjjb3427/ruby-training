@@ -4,6 +4,8 @@
 
 ![Ruby](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ruby-logo-notext.png)
 
+* [Challenges]((https://github.com/simplonco/ruby-challenges) _(Experimental)_
+
 ### Discourses
 
 * [Cours de réseau avec Ruby](http://discourse.simplon.co/t/cours-de-reseau-avec-ruby/77)
