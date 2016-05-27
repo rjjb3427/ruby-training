@@ -4,7 +4,7 @@
 
 ![Ruby](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ruby-logo-notext.png)
 
-* [Challenges](https://github.com/simplonco/ruby-challenges) _(Experimental)_
+* [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
 ### Discourses
 
