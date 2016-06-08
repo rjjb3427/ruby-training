@@ -2,7 +2,7 @@
 
 >_[Training](https://github.com/simplonco/training) / Ruby_
 
-![Ruby](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ruby-logo-notext.png)
+![Ruby](ruby.png)
 
 * [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
