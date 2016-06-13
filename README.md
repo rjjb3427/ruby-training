@@ -37,3 +37,6 @@
 * [Cours sur le framework Sinatra](http://discourse.simplon.co/t/cours-sur-le-framework-sinatra/85)
 * [Cours sur Ruby](http://discourse.simplon.co/t/cours-sur-ruby/72)
 * [Uninitialized constant Elasticsearch Rails::Application](http://discourse.simplon.co/t/uninitialized-constant-elasticsearch-rails-application/125)
+
+_To be continued.._
+
