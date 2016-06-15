@@ -8,6 +8,8 @@
 
 ## Ressources
 
+https://github.com/markets/awesome-ruby
+
 ### Rails (GitHub)
 
 * [rails-tutorial](https://github.com/simplonco/rails-tutorial)
