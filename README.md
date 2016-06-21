@@ -8,7 +8,9 @@
 
 ## Ressources
 
-https://github.com/markets/awesome-ruby
+* https://github.com/markets/awesome-ruby
+* https://www.grafikart.fr/formations/ruby
+* http://tryruby.org/
 
 ### Rails (GitHub)
 
