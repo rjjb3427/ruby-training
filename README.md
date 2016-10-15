@@ -1,10 +1,10 @@
 # Ruby
 
->_[Training](https://gitlab.com/simplon-co/training) / Ruby_
+>_[Training](https://github.com/simmplonco/training) / Ruby_
 
 ![Ruby](ruby.png)
 
-* [Challenges](https://gitlab.com/simplon-co/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
+* [Challenges](https://github.com/simmplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
 ## Ressources
 
@@ -14,22 +14,22 @@
 
 ### Rails (GitHub)
 
-* [rails-tutorial](https://gitlab.com/simplon-co/rails-tutorial)
-* [rails-github-connect](https://gitlab.com/simplon-co/rails-github-connect)
-* [rails-multi-step-forms](https://gitlab.com/simplon-co/rails-multi-step-forms)
-* [rails-dynamic-form-2](https://gitlab.com/simplon-co/rails-dynamic-form-2)
-* [ruby-benchmark-redis-mongo](https://gitlab.com/simplon-co/ruby-benchmark-redis-mongo)
-* [rails-devise](https://gitlab.com/simplon-co/rails-devise)
-* [rails-scraping-mechanize](https://gitlab.com/simplon-co/rails-scraping-mechanize)
-* [rails-dynamic-form](https://gitlab.com/simplon-co/rails-dynamic-form)
-* [rails-i18n-heroku](https://gitlab.com/simplon-co/rails-i18n-heroku)
-* [rails-voting](https://gitlab.com/simplon-co/rails-voting)
-* [rails-sti](https://gitlab.com/simplon-co/rails-sti)
-* [rails-activerecord-associations](https://gitlab.com/simplon-co/rails-activerecord-associations)
-* [rails-geocoder-leaflet](https://gitlab.com/simplon-co/rails-geocoder-leaflet)
-* [rails-leaflet](https://gitlab.com/simplon-co/rails-leaflet)
-* [rails-jquery-ui-sortable](https://gitlab.com/simplon-co/rails-jquery-ui-sortable)
-* [rails-devise-starter](https://gitlab.com/simplon-co/rails-devise-starter)
+* [rails-tutorial](https://github.com/simmplonco/rails-tutorial)
+* [rails-github-connect](https://github.com/simmplonco/rails-github-connect)
+* [rails-multi-step-forms](https://github.com/simmplonco/rails-multi-step-forms)
+* [rails-dynamic-form-2](https://github.com/simmplonco/rails-dynamic-form-2)
+* [ruby-benchmark-redis-mongo](https://github.com/simmplonco/ruby-benchmark-redis-mongo)
+* [rails-devise](https://github.com/simmplonco/rails-devise)
+* [rails-scraping-mechanize](https://github.com/simmplonco/rails-scraping-mechanize)
+* [rails-dynamic-form](https://github.com/simmplonco/rails-dynamic-form)
+* [rails-i18n-heroku](https://github.com/simmplonco/rails-i18n-heroku)
+* [rails-voting](https://github.com/simmplonco/rails-voting)
+* [rails-sti](https://github.com/simmplonco/rails-sti)
+* [rails-activerecord-associations](https://github.com/simmplonco/rails-activerecord-associations)
+* [rails-geocoder-leaflet](https://github.com/simmplonco/rails-geocoder-leaflet)
+* [rails-leaflet](https://github.com/simmplonco/rails-leaflet)
+* [rails-jquery-ui-sortable](https://github.com/simmplonco/rails-jquery-ui-sortable)
+* [rails-devise-starter](https://github.com/simmplonco/rails-devise-starter)
 
 ### Discourses
 
@@ -43,4 +43,3 @@
 * [Uninitialized constant Elasticsearch Rails::Application](http://discourse.simplon.co/t/uninitialized-constant-elasticsearch-rails-application/125)
 
 _To be continued.._
-
