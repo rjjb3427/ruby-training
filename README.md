@@ -31,7 +31,7 @@
 * [Cours sur Ruby](http://discourse.simplon.co/t/cours-sur-ruby/72)
 * [Uninitialized constant Elasticsearch Rails::Application](http://discourse.simplon.co/t/uninitialized-constant-elasticsearch-rails-application/125)
 
-### Projects Ruby on Rails _(Montreuil Promo #2)_
+#### Projects Ruby on Rails _(Montreuil Promo #2)_
 
 * [rails-tutorial](https://github.com/simplonco/rails-tutorial)
 * [rails-github-connect](https://github.com/simplonco/rails-github-connect)
