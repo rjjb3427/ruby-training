@@ -12,7 +12,7 @@
 * https://www.grafikart.fr/formations/ruby
 * http://tryruby.org/
 
-### Rails (GitHub)
+### Projects Ruby on Rails (Montreuil Promo #2)
 
 * [rails-tutorial](https://github.com/simplonco/rails-tutorial)
 * [rails-github-connect](https://github.com/simplonco/rails-github-connect)
@@ -31,7 +31,7 @@
 * [rails-jquery-ui-sortable](https://github.com/simplonco/rails-jquery-ui-sortable)
 * [rails-devise-starter](https://github.com/simplonco/rails-devise-starter)
 
-### Discourses
+### Discourses (Montreuil Promo #3)
 
 * [Cours de réseau avec Ruby](http://discourse.simplon.co/t/cours-de-reseau-avec-ruby/77)
 * [Cours sur Middleman et le preprocessing](http://discourse.simplon.co/t/cours-sur-middleman-et-le-preprocessing/80)
