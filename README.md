@@ -4,7 +4,9 @@
 
 ![Ruby](ruby.png)
 
-* [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
+## Challenges
+
+* :trophy: [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
 ## Ressources
 
