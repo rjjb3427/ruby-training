@@ -6,15 +6,21 @@
 
 ## Challenges
 
+> TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), can be imported from exercism.io
+
 * :trophy: [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
 ## Ressources
+
+> Currated list of external urls - ressources
 
 * https://github.com/markets/awesome-ruby
 * https://www.grafikart.fr/formations/ruby
 * http://tryruby.org/
 
 ### Projects Ruby on Rails _(Montreuil Promo #2)_
+
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
 
 * [rails-tutorial](https://github.com/simplonco/rails-tutorial)
 * [rails-github-connect](https://github.com/simplonco/rails-github-connect)
