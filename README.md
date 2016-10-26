@@ -2,8 +2,6 @@
 
 >_[Training](https://github.com/simplonco/training) / Ruby_
 
-![Ruby](ruby.png)
-
 ## Exercises
 
 #### TDD Challenges
