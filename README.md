@@ -14,9 +14,9 @@
 
 > Currated list of external ressources
 
-* https://github.com/markets/awesome-ruby
-* https://www.grafikart.fr/formations/ruby
-* http://tryruby.org/
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
+* [Grafikart - Formation Ruby](https://www.grafikart.fr/formations/ruby)
+* [Try Ruby](http://tryruby.org/)
 
 #### Discourses _(Montreuil Promo #3)_
 
