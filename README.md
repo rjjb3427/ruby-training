@@ -2,17 +2,34 @@
 
 >_[Training](https://github.com/simplonco/training) / Ruby_
 
-![Ruby](ruby.png)
+## Exercises
 
-* [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
+#### TDD Challenges
+
+> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
+
+* :trophy: [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
 ## Ressources
 
-* https://github.com/markets/awesome-ruby
-* https://www.grafikart.fr/formations/ruby
-* http://tryruby.org/
+> Currated list of external ressources
 
-### Rails (GitHub)
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
+* [Grafikart - Formation Ruby](https://www.grafikart.fr/formations/ruby)
+* [Try Ruby](http://tryruby.org/)
+
+#### Discourses _(Montreuil Promo #3)_
+
+* [Cours de réseau avec Ruby](http://discourse.simplon.co/t/cours-de-reseau-avec-ruby/77)
+* [Cours sur Middleman et le preprocessing](http://discourse.simplon.co/t/cours-sur-middleman-et-le-preprocessing/80)
+* [Exercices d’algorithmie avec Ruby](http://discourse.simplon.co/t/exercices-dalgorithmie-avec-ruby/81)
+* [Cours de Programmation Orientée Objet avec Ruby](http://discourse.simplon.co/t/cours-de-programmation-orientee-objet-avec-ruby/79)
+* [Ruby on Rails](http://discourse.simplon.co/t/ruby-on-rails/92)
+* [Cours sur le framework Sinatra](http://discourse.simplon.co/t/cours-sur-le-framework-sinatra/85)
+* [Cours sur Ruby](http://discourse.simplon.co/t/cours-sur-ruby/72)
+* [Uninitialized constant Elasticsearch Rails::Application](http://discourse.simplon.co/t/uninitialized-constant-elasticsearch-rails-application/125)
+
+#### Projects Ruby on Rails _(Montreuil Promo #2)_
 
 * [rails-tutorial](https://github.com/simplonco/rails-tutorial)
 * [rails-github-connect](https://github.com/simplonco/rails-github-connect)
@@ -31,15 +48,5 @@
 * [rails-jquery-ui-sortable](https://github.com/simplonco/rails-jquery-ui-sortable)
 * [rails-devise-starter](https://github.com/simplonco/rails-devise-starter)
 
-### Discourses
-
-* [Cours de réseau avec Ruby](http://discourse.simplon.co/t/cours-de-reseau-avec-ruby/77)
-* [Cours sur Middleman et le preprocessing](http://discourse.simplon.co/t/cours-sur-middleman-et-le-preprocessing/80)
-* [Exercices d’algorithmie avec Ruby](http://discourse.simplon.co/t/exercices-dalgorithmie-avec-ruby/81)
-* [Cours de Programmation Orientée Objet avec Ruby](http://discourse.simplon.co/t/cours-de-programmation-orientee-objet-avec-ruby/79)
-* [Ruby on Rails](http://discourse.simplon.co/t/ruby-on-rails/92)
-* [Cours sur le framework Sinatra](http://discourse.simplon.co/t/cours-sur-le-framework-sinatra/85)
-* [Cours sur Ruby](http://discourse.simplon.co/t/cours-sur-ruby/72)
-* [Uninitialized constant Elasticsearch Rails::Application](http://discourse.simplon.co/t/uninitialized-constant-elasticsearch-rails-application/125)
 
 _To be continued.._
