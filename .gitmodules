@@ -1,0 +1,57 @@
+[submodule "projects/rails-tutorial"]
+	path = projects/rails-tutorial
+	url = https://github.com/simplonco/rails-tutorial
+[submodule "projects/rails-github-connect"]
+	path = projects/rails-github-connect
+	url = https://github.com/simplonco/rails-github-connect
+[submodule "projects/rails-multi-step-forms"]
+	path = projects/rails-multi-step-forms
+	url = https://github.com/simplonco/rails-multi-step-forms
+[submodule "projects/rails-dynamic-form-2"]
+	path = projects/rails-dynamic-form-2
+	url = https://github.com/simplonco/rails-dynamic-form-2
+[submodule "projects/ruby-benchmark-redis-mongo"]
+	path = projects/ruby-benchmark-redis-mongo
+	url = https://github.com/simplonco/ruby-benchmark-redis-mongo
+[submodule "projects/rails-devise"]
+	path = projects/rails-devise
+	url = https://github.com/simplonco/rails-devise
+[submodule "projects/rails-scraping-mechanize"]
+	path = projects/rails-scraping-mechanize
+	url = https://github.com/simplonco/rails-scraping-mechanize
+[submodule "projects/rails-dynamic-form"]
+	path = projects/rails-dynamic-form
+	url = https://github.com/simplonco/rails-dynamic-form
+[submodule "projects/rails-i18n-heroku"]
+	path = projects/rails-i18n-heroku
+	url = https://github.com/simplonco/rails-i18n-heroku
+[submodule "projects/rails-voting"]
+	path = projects/rails-voting
+	url = https://github.com/simplonco/rails-voting
+[submodule "projects/rails-sti"]
+	path = projects/rails-sti
+	url = https://github.com/simplonco/rails-sti
+[submodule "projects/rails-activerecord-associations"]
+	path = projects/rails-activerecord-associations
+	url = https://github.com/simplonco/rails-activerecord-associations
+[submodule "projects/rails-geocoder-leaflet"]
+	path = projects/rails-geocoder-leaflet
+	url = https://github.com/simplonco/rails-geocoder-leaflet
+[submodule "projects/rails-leaflet"]
+	path = projects/rails-leaflet
+	url = https://github.com/simplonco/rails-leaflet
+[submodule "projects/rails-jquery-ui-sortable"]
+	path = projects/rails-jquery-ui-sortable
+	url = https://github.com/simplonco/rails-jquery-ui-sortable
+[submodule "projects/rails-devise-starter"]
+	path = projects/rails-devise-starter
+	url = https://github.com/simplonco/rails-devise-starter
+[submodule "challenges/ruby-challenges"]
+	path = challenges/ruby-challenges
+	url = https://github.com/simplonco/ruby-challenges
+[submodule "challenges/x-common"]
+	path = challenges/x-common
+	url = https://github.com/simplonco/x-common
+[submodule "challenges/xruby"]
+	path = challenges/xruby
+	url = https://github.com/simplonco/xruby
