@@ -49,9 +49,3 @@
 [submodule "challenges/ruby-challenges"]
 	path = challenges/ruby-challenges
 	url = https://github.com/simplonco/ruby-challenges
-[submodule "challenges/x-common"]
-	path = challenges/x-common
-	url = https://github.com/simplonco/x-common
-[submodule "challenges/xruby"]
-	path = challenges/xruby
-	url = https://github.com/simplonco/xruby
