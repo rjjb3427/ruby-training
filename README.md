@@ -10,7 +10,7 @@
 
 * :trophy: [Challenges](https://github.com/simplonco/ruby-challenges) It will maybe hurt a bit, but for your good! :cactus:
 
-## Ressources
+## Resources
 
 > Currated list of external ressources
 
